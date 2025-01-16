@@ -10,4 +10,10 @@ Javier E Kyle V
 1. soccer
 2. Tennis
 
+# Classes
+- Computer Science
+- Info Systems Analysis and Design
+- Statistical Computing
+- Managerial Accounting
+- Financial Management
 
